@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav0703" alt="rtk-rnjn" /></a> </p>
 
 
-- I’m currently working on [Champ](https://discordapp.com/oauth2/authorize?client_id=770754073107628083&scope=bot+applications.commands&permissions=0)
+- I’m currently working on [Champ](https://discordapp.com/oauth2/authorize?client_id=929742763036123138&scope=bot+applications.commands&permissions=0)
 
 -  How to reach me? Join my [Discord Server](https://discord.gg/2YhzqSwvsc)
 
